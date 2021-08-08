@@ -7,7 +7,7 @@ My name is Steven Cheung, and I'm currently a student. I'm from the UK, still li
 
 ## Here's a few bits about me:
 #### - 🔭 I'm currently worrking on *growing my portfolio*
-#### - 🌱 I'm currently learning to build a *game engine*
+#### - 🌱 I'm currently learning to develop a *game engine*
 #### - 👯 I'm looking to collaborate on open source projects!
 #### - 💬 Ask me anything you'd like! You can find me on [![Twitter][1.2]][1].
 
