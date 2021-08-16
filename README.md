@@ -1,6 +1,6 @@
 # Hello there! <img src="https://raw.githubusercontent.com/StevenCheung87/StevenCheung87/master/wave.gif" width="30px">
 
-My name is Steven Cheung, and I currently study at Unviersity of Leicster; Studying Maths and Artificial Intelligence. I'm from the UK, still living in the UK. 
+My name is Steven Cheung. I currently study at **Unviersity of Leicster; Studying Maths and Artificial Intelligence**. I'm from the UK, still living in the UK. 
 
 
 <br/>
